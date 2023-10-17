@@ -16,6 +16,8 @@ This program is a demonstration of common server-side application flaws. The
 exercises are intended to be used by people to learn about application security and
 penetration testing techniques. 
 
+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
+
 **WARNING 1:** *While running this program your machine will be extremely
 vulnerable to attack. You should disconnect from the Internet while using
 this program.*  WebGoat's default configuration binds to localhost to minimize
